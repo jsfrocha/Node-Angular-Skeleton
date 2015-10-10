@@ -4,7 +4,7 @@
   "authors": [
     "JFR <jsfrocha@gmail.com>"
   ],
-  "description": "IBM BPM Documentation Platform",
+  "description": "Skeleton for AngularJS + NodeJS Application",
   "license": "GPL",
   "ignore": [
     "**/.*",
