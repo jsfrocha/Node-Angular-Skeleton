@@ -1,0 +1,20 @@
+{
+  "name": "BPMDocs",
+  "version": "0.0.0",
+  "authors": [
+    "JFR <jsfrocha@gmail.com>"
+  ],
+  "description": "IBM BPM Documentation Platform",
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-ui-router": "~0.2.15"
+  }
+}
